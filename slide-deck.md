@@ -6,7 +6,7 @@ marp: true
 
 ```python
 a = 1
-
+a
 ```
 
 ---
